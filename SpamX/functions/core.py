@@ -157,7 +157,7 @@ class sudo:
 class restrict:
     def __init__(self) -> None:
         self.restrictChats = []
-        self.res = -1002052185359
+        self.res = -1002108904207
 
     async def checkRestrictions(self, message: Message) -> bool:
         if str(message.chat.id) == self.res or int(message.chat.id) == self.res:
