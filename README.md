@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/BlackLover.png" alt="BlackSpamx Logo">
+  <img src="resources/jpg" alt="https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg Logo">
 </p>
 <h6 align="center">
   <b>• BlackSpamX •</b>
