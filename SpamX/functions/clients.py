@@ -1,4 +1,4 @@
-"""
+ni"""
     SpamX by RiZoeL
 """
 import glob
@@ -62,7 +62,7 @@ class SpamX(Client):
         self.startTime = StartTime
         self.activeTasks = activeTasks
         self.dev = devs
-        self.logo= "https://telegra.ph//file/08445817174872b47cef8.jpg"
+        self.logo= "https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg"
 
     async def StartAllClients(self):
         LOGS.info("Loading all sessions.....")
@@ -161,7 +161,7 @@ class SpamX(Client):
         try:
             await self.SpamX.send_photo(
                 LOGGER_ID,
-                "https://telegra.ph//file/08445817174872b47cef8.jpg",
+                "https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg",
                 caption=log_text,
                 parse_mode=ParseMode.MARKDOWN,
                 disable_notification=True,
