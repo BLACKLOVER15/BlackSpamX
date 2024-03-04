@@ -1,7 +1,7 @@
 {
-    "name": "SpamX - RiZoeLX",
+    "name": "SpamX - BlackLover",
     "description": "A Pyrogram Based Spam Bots, Fast And Stable",
-    "logo": "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg",
+    "logo": "https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg",
     "keywords": [
         "telegram",
         "PYROGRAM",
@@ -9,9 +9,9 @@
         "SpamX",
         "RiZoeLX"
     ],
-    "repository": "https://github.com/RiZoeLX/SpamX",
-    "website": "https://github.com/RiZoeLX",
-    "success_url": "https://t.me/RiZoeL_X",
+    "repository": "https://github.com/BLACKLOVER15/BlackSpamX",
+    "website": "https://github.com/BlackSpamX",
+    "success_url": "https://t.me/Exampur20",
     "env": {
         "API_ID": {
             "description": "Fill Api ID Take this value from My.telegram.org",
