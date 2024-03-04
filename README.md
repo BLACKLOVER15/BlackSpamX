@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg Logo">
+  <img src="https://te.legra.ph/file/11adba95c2c26ae877ccf.jpg">
 </p>
 <h6 align="center">
   <b>• BlackSpamX •</b>
